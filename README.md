@@ -77,16 +77,6 @@ Replace `main.py` with your actual Python filename if it is different.
 ![Game Screenshot](screenshots/gameplay.png)
 ```
 
-## 🚀 Future Improvements
-
-- [ ] Two-player mode
-- [ ] AI-controlled opponent
-- [ ] Improved animations and visual effects
-- [ ] Background music and sound effects
-- [ ] Multiple game modes
-- [ ] Scoreboard and leaderboard
-- [ ] Windows executable (`.exe`) release
-
 ## 🤝 Contributing
 
 Contributions, suggestions, and bug reports are welcome!
